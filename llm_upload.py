@@ -35,8 +35,6 @@ def main():
 
 
 if __name__ == "__main__":
-    os.environ["OPENAI_API_KEY"] =  "..."
-
     client = OpenAI(
         organization='org-J57WTuqjaC5PSIhlQhmfgmd9',
         project='proj_ehHc8tNJLqKqF69ZOzWTByr7',
